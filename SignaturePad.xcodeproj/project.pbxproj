@@ -53,11 +53,19 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		967357831F995E63003496D3 = {
+		040E720B298ABF5400BE62FF /* Sources */ = {
 			isa = PBXGroup;
 			children = (
 				9673578F1F995E63003496D3 /* SignaturePad */,
 				9673579A1F995E64003496D3 /* SignaturePadTests */,
+			);
+			path = Sources;
+			sourceTree = "<group>";
+		};
+		967357831F995E63003496D3 = {
+			isa = PBXGroup;
+			children = (
+				040E720B298ABF5400BE62FF /* Sources */,
 				9673578E1F995E63003496D3 /* Products */,
 			);
 			sourceTree = "<group>";
